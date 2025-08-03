@@ -4,7 +4,7 @@
 This project is a Java-based **Library Management System**, created as part of **Exercise 2** in the Advanced Programming course.  
 Unlike later versions, this system **does not use inheritance** and focuses solely on direct object-oriented design without polymorphic structures.
 
-> 🧠 Focus: Basic Object-Oriented Programming (OOP), Class Design, Command Parsing
+>  Focus: Basic Object-Oriented Programming (OOP), Class Design, Command Parsing
 
 ---
 
