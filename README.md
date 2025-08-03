@@ -79,17 +79,11 @@ borrow#14010011234|PassWd|L001|B001|2025-04-10|10:00
 
 ## 📬 Output Messages
 
-- `success` ✅ – Operation completed
-- `duplicate-id` 🔁 – ID already exists
-- `not-found` ❓ – Item or user not found
-- `invalid-pass` 🔑 – Incorrect password
-- `not-allowed` 🚫 – Rule violation (e.g. overdue, duplicate borrow)
-
----
-
-## 📮 Contact
-
-For questions or suggestions, feel free to reach out via the course communication channels.
+- `success`  – Operation completed
+- `duplicate-id`  – ID already exists
+- `not-found`  – Item or user not found
+- `invalid-pass`  – Incorrect password
+- `not-allowed`  – Rule violation (e.g. overdue, duplicate borrow)
 
 ---
 **© 2025 - Advanced Programming – Dr. Kalbasi & Dr. Zeynali**
